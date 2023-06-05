@@ -5,13 +5,19 @@
 
 ## Projects!
 + [Project 1]()
-		++ Gain experience using CLI, CLI commands, VS code and non-web server Node.js Javascript code
+	=> Gain experience using CLI, CLI commands, VS code and non-web server Node.js JavaScript code
 + [Project 2](url)
+	=> Gain experience using CLI, VS code, source control, and practice refactoring JavaScript Code
 + [Project 3](url)
+	=> Gain experience in writing and executing non-web server Node.js JavaScript code, Fastify and GET verb, routes, query parameters, and loading a file using it as a web page
 + [Project 4](url)
+	=> More Fastify! Work with REST API server, gain expeierence working with static data, use Postman, work with JSON and bonus: POST, PUT, and Delete Verbs!
 + [Project 5](url)
+	=> EXTRA CREDIT: Work with classes, Array map() forEach() methods, and work with the concept of a gaming loop
 + [Project 6](url)
+	=> Gain experience with debugging code, create generic block of code to process data, gain more experience writing and executing non-web server Node.js
 + [Project 7](url)
+	=> It's this page! Work with GitHub!
 
 ## Labs!
 + [Lab 1](url)
