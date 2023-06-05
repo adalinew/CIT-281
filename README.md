@@ -3,7 +3,9 @@
 + Howdy Folks! Welcome to my little site for all of CIT 281! 
 
 ## Projects!
-+ [Project 1] (https://www.youtube.com/)
+[Project 1](https://www.youtube.com/)
+[Project 1](https://www.youtube.com/)
++ [Project 1](https://www.youtube.com/)
 + Project 2 ()
 + Project 3 ()
 + Project 4 ()
