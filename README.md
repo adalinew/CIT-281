@@ -5,6 +5,7 @@
 
 ## Projects!
 + [Project 1]()
+		++ Gain experience using CLI, CLI commands, VS code and non-web server Node.js Javascript code
 + [Project 2](url)
 + [Project 3](url)
 + [Project 4](url)
