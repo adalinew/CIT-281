@@ -20,12 +20,21 @@
 	=> It's this page! Work with GitHub!
 
 ## Labs!
-+ [Lab 1](url)
++ [Lab 1](url) 
+	=> Setting up software tools for the course.
 + [Lab 2](url)
+	=> Using CLI commands, setting up Git, working within the repositroy, learning to ignore files, cloning cloud repos locally, working with branches.
 + [Lab 3](url)
+	=> Practicing refactoring JavaScript code, using for...in or of syntac with arrays.
 + [Lab 4](url)
+	=> Create initial Fastify Node.js web server, work with npm, git repos, and MIME error
 + [Lab 5](url)
+	=> Begin working with Postman
 + [Lab 6](url)
+	=> Join GitHub and begin working with classes
 + [Lab 7](url)
+	=> Create a GitHub organization for the CIT Minor
 + [Lab 8](url)
+	=> Create lab file, install a node-fetch package, add a fastify starter code and Fetch JSONPlaceholder data
 + [Lab 9](url)
+	=>Work with GitHub learning lab and create a release based workflow
