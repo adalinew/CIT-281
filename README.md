@@ -5,36 +5,36 @@
 
 ## Projects!
 + [Project 1](https://adalinew.github.io/cit281-p1/)
-	=> Gain experience using CLI, CLI commands, VS code and non-web server Node.js JavaScript code
+	=> Gain experience using CLI, CLI commands, VS code and non-web server Node.js JavaScript code [Repository](https://github.com/adalinew/cit281-p1)
 + [Project 2](https://adalinew.github.io/cit281-p2/)
-	=> Gain experience using CLI, VS code, source control, and practice refactoring JavaScript Code
+	=> Gain experience using CLI, VS code, source control, and practice refactoring JavaScript Code [Repository](https://github.com/adalinew/cit281-p2/blob/main/README.md)
 + [Project 3](https://adalinew.github.io/cit281-p3/)
-	=> Gain experience in writing and executing non-web server Node.js JavaScript code, Fastify and GET verb, routes, query parameters, and loading a file using it as a web page
+	=> Gain experience in writing and executing non-web server Node.js JavaScript code, Fastify and GET verb, routes, query parameters, and loading a file using it as a web page [Repository](https://github.com/adalinew/cit281-p3)
 + [Project 4](https://adalinew.github.io/cit281-p4/)
-	=> More Fastify! Work with REST API server, gain expeierence working with static data, use Postman, work with JSON and bonus: POST, PUT, and Delete Verbs!
+	=> More Fastify! Work with REST API server, gain expeierence working with static data, use Postman, work with JSON and bonus: POST, PUT, and Delete Verbs! [Repository](url)
 + [Project 5](https://adalinew.github.io/cit281-p5/)
-	=> EXTRA CREDIT: Work with classes, Array map() forEach() methods, and work with the concept of a gaming loop
+	=> EXTRA CREDIT: Work with classes, Array map() forEach() methods, and work with the concept of a gaming loop [Repository](url)
 + [Project 6](https://adalinew.github.io/cit281-p6/)
-	=> Gain experience with debugging code, create generic block of code to process data, gain more experience writing and executing non-web server Node.js
+	=> Gain experience with debugging code, create generic block of code to process data, gain more experience writing and executing non-web server Node.js [Repository](url)
 + [Project 7](https://github.com/adalinew/CIT-281.git)
-	=> It's this page! Work with GitHub! Linked the repo!
+	=> It's this page! Work with GitHub! Linked the repo! [Repository](url)
 
 ## Labs!
 + [Lab 1](https://adalinew.github.io/cit281-lab1/) 
-	=> Setting up software tools for the course.
+	=> Setting up software tools for the course. [Repository](url)
 + [Lab 2](https://adalinew.github.io/cit281-lab2/)
-	=> Using CLI commands, setting up Git, working within the repositroy, learning to ignore files, cloning cloud repos locally, working with branches.
+	=> Using CLI commands, setting up Git, working within the repositroy, learning to ignore files, cloning cloud repos locally, working with branches. [Repository](url)
 + [Lab 3](https://adalinew.github.io/cit281-lab3/)
-	=> Practicing refactoring JavaScript code, using for...in or of syntac with arrays.
+	=> Practicing refactoring JavaScript code, using for...in or of syntac with arrays. [Repository](url)
 + [Lab 4](https://adalinew.github.io/cit281-lab4/)
-	=> Create initial Fastify Node.js web server, work with npm, git repos, and MIME error
+	=> Create initial Fastify Node.js web server, work with npm, git repos, and MIME error [Repository](url)
 + [Lab 5](https://adalinew.github.io/cit281-lab5/)
-	=> Begin working with Postman
+	=> Begin working with Postman [Repository](url)
 + [Lab 6](https://adalinew.github.io/cit281-lab6/)
-	=> Join GitHub and begin working with classes
+	=> Join GitHub and begin working with classes [Repository](url)
 + [Lab 7](https://adalinew.github.io/cit281-lab7/)
-	=> Create a GitHub organization for the CIT Minor
+	=> Create a GitHub organization for the CIT Minor [Repository](url)
 + [Lab 8](https://adalinew.github.io/cit281-lab8/)
-	=> Create lab file, install a node-fetch package, add a fastify starter code and Fetch JSONPlaceholder data
+	=> Create lab file, install a node-fetch package, add a fastify starter code and Fetch JSONPlaceholder data [Repository](url)
 + [Lab 9](https://adalinew.github.io/cit281-lab9/)
-	=>Work with GitHub learning lab and create a release based workflow
+	=>Work with GitHub learning lab and create a release based workflow [Repository](url)
