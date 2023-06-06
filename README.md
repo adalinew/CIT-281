@@ -4,7 +4,7 @@
 + Howdy Folks! Welcome to my little site for all of CIT 281! 
 
 ## Projects!
-+ [Project 1]()
++ [Project 1](https://adalinew.github.io/cit281-p1/)
 	=> Gain experience using CLI, CLI commands, VS code and non-web server Node.js JavaScript code
 + [Project 2](url)
 	=> Gain experience using CLI, VS code, source control, and practice refactoring JavaScript Code
