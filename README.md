@@ -20,21 +20,21 @@
 	=> It's this page! Work with GitHub! Linked the repo!
 
 ## Labs!
-+ [Lab 1](url) 
++ [Lab 1](https://adalinew.github.io/cit281-lab1/) 
 	=> Setting up software tools for the course.
-+ [Lab 2](url)
++ [Lab 2](https://adalinew.github.io/cit281-lab2/)
 	=> Using CLI commands, setting up Git, working within the repositroy, learning to ignore files, cloning cloud repos locally, working with branches.
-+ [Lab 3](url)
++ [Lab 3](https://adalinew.github.io/cit281-lab3/)
 	=> Practicing refactoring JavaScript code, using for...in or of syntac with arrays.
-+ [Lab 4](url)
++ [Lab 4](https://adalinew.github.io/cit281-lab4/)
 	=> Create initial Fastify Node.js web server, work with npm, git repos, and MIME error
-+ [Lab 5](url)
++ [Lab 5](https://adalinew.github.io/cit281-lab5/)
 	=> Begin working with Postman
-+ [Lab 6](url)
++ [Lab 6](https://adalinew.github.io/cit281-lab6/)
 	=> Join GitHub and begin working with classes
-+ [Lab 7](url)
++ [Lab 7](https://adalinew.github.io/cit281-lab7/)
 	=> Create a GitHub organization for the CIT Minor
-+ [Lab 8](url)
++ [Lab 8](https://adalinew.github.io/cit281-lab8/)
 	=> Create lab file, install a node-fetch package, add a fastify starter code and Fetch JSONPlaceholder data
-+ [Lab 9](url)
++ [Lab 9](https://adalinew.github.io/cit281-lab9/)
 	=>Work with GitHub learning lab and create a release based workflow
