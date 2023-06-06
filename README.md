@@ -6,7 +6,7 @@
 ## Projects!
 + [Project 1](https://adalinew.github.io/cit281-p1/)
 	=> Gain experience using CLI, CLI commands, VS code and non-web server Node.js JavaScript code
-+ [Project 2](url)
++ [Project 2](https://adalinew.github.io/cit281-p2/)
 	=> Gain experience using CLI, VS code, source control, and practice refactoring JavaScript Code
 + [Project 3](url)
 	=> Gain experience in writing and executing non-web server Node.js JavaScript code, Fastify and GET verb, routes, query parameters, and loading a file using it as a web page
