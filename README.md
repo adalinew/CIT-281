@@ -10,14 +10,14 @@
 	=> Gain experience using CLI, VS code, source control, and practice refactoring JavaScript Code
 + [Project 3](https://adalinew.github.io/cit281-p3/)
 	=> Gain experience in writing and executing non-web server Node.js JavaScript code, Fastify and GET verb, routes, query parameters, and loading a file using it as a web page
-+ [Project 4](url)
++ [Project 4](https://adalinew.github.io/cit281-p4/)
 	=> More Fastify! Work with REST API server, gain expeierence working with static data, use Postman, work with JSON and bonus: POST, PUT, and Delete Verbs!
-+ [Project 5](url)
++ [Project 5](https://adalinew.github.io/cit281-p5/)
 	=> EXTRA CREDIT: Work with classes, Array map() forEach() methods, and work with the concept of a gaming loop
-+ [Project 6](url)
++ [Project 6](https://adalinew.github.io/cit281-p6/)
 	=> Gain experience with debugging code, create generic block of code to process data, gain more experience writing and executing non-web server Node.js
-+ [Project 7](url)
-	=> It's this page! Work with GitHub!
++ [Project 7](https://github.com/adalinew/CIT-281.git)
+	=> It's this page! Work with GitHub! Linked the repo!
 
 ## Labs!
 + [Lab 1](url) 
